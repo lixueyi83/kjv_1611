@@ -1,6 +1,8 @@
 #!/bin/bash
 #
-# echo "Run the commands manually." && exit
+# @author: Xueyi Li
+# @copyright Copyright &copy; 01/01/22 . All Rights Reserved.
+#
 
 TGTDIR=./pdf
 [ ! -d $TGTDIR ] && mkdir $TGTDIR
